@@ -271,10 +271,8 @@ Mature capstones may later become independent portfolio repositories:
 
 ### Clone the repository
 
-Replace `YOUR-USERNAME` with the GitHub account or organization name.
-
 ```bash
-git clone https://github.com/YOUR-USERNAME/rf-space-systems-lab.git
+git clone https://github.com/hunkarsuci/rf-space-systems-lab.git
 cd rf-space-systems-lab
 ```
 
