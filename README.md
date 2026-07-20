@@ -1,3 +1,5 @@
+[![Notebook CI](https://github.com/YOUR-USERNAME/rf-space-systems-lab/actions/workflows/notebook-ci.yml/badge.svg)](https://github.com/YOUR-USERNAME/rf-space-systems-lab/actions/workflows/notebook-ci.yml)
+
 # RF Space Systems Lab
 
 A structured Python learning and engineering laboratory covering:
