@@ -1,4 +1,4 @@
-[![Notebook CI](https://github.com/YOUR-USERNAME/rf-space-systems-lab/actions/workflows/notebook-ci.yml/badge.svg)](https://github.com/YOUR-USERNAME/rf-space-systems-lab/actions/workflows/notebook-ci.yml)
+[![Notebook CI](https://github.com/OWNER/REPOSITORY/actions/workflows/notebook-ci.yml/badge.svg?branch=main)](https://github.com/hunkarsuci/rf-space-systems-lab/blob/main/.github/workflows/notebook-ci.yml)
 
 # RF Space Systems Lab
 
